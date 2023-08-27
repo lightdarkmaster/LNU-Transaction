@@ -54,4 +54,6 @@ footer {
     left: 0;
     width: 100%;
     height: auto;
+    margin: auto;
+    text-align: center;
 }
