@@ -1,4 +1,4 @@
-# LNU-Tranasction
+# LNU-Transaction
 This repository is intended for the fast and reliable transactions within the LNU 
 
 ## How to Access?
