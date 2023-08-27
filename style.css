@@ -6,7 +6,6 @@
 
 body {
     position: relative;
-    height: 100vh;
 }
 
 .container {
@@ -15,7 +14,7 @@ body {
     justify-content: center;
     margin: auto;
     height: 100%;
-    width: 100%;
+    width: 90%;
     box-shadow: 2px 3px 3px 2px rgba(128, 128, 128, 0.523);
     padding: 10px;
     border-radius: 10px;
@@ -27,7 +26,7 @@ body {
     border: 1px solid grey;
     justify-content: center;
     margin: auto;
-    width: 100%;
+    width: 90%;
 }
 
 .container h1 {
