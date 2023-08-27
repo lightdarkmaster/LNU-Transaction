@@ -36,6 +36,9 @@ body {
 }
 
 footer {
-    position: relative;
-    top: 100%;
+    position: absolute;
+    top: 40pc;
+    left: 0;
+    width: 100%;
+    height: auto;
 }
