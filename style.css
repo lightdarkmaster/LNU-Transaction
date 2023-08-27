@@ -6,6 +6,7 @@
 
 body {
     position: relative;
+    background: rgb(254, 253, 239);
 }
 
 .container {
@@ -32,4 +33,9 @@ body {
 .container h1 {
     font-family: 'Black Ops One', cursive;
     font-family: 'Kanit', sans-serif;
+}
+
+footer {
+    position: relative;
+    top: 100%;
 }
