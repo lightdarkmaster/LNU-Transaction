@@ -48,6 +48,36 @@ body {
     font-family: 'Kanit', sans-serif;
 }
 
+.index-intro {
+    position: relative;
+    height: 50vh;
+}
+
+.index-intro h2 {
+    position: inherit;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.image-container {
+    position: relative;
+    top: 10%;
+    max-width: 100%;
+    /* Maximum width */
+    max-height: 100%;
+    /* Maximum height */
+    overflow: hidden;
+    /* Hide overflow */
+}
+
+.image-container img {
+    width: 100%;
+    /* Take up full width of container */
+    height: auto;
+    /* Automatically adjust height while maintaining aspect ratio */
+}
+
 footer {
     position: relative;
     top: 5pc;
