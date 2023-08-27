@@ -31,6 +31,18 @@ body {
     width: 90%;
 }
 
+.password-container {
+    position: relative;
+}
+
+.toggle-password {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
 .container h1 {
     font-family: 'Black Ops One', cursive;
     font-family: 'Kanit', sans-serif;
