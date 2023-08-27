@@ -37,8 +37,8 @@ body {
 }
 
 footer {
-    position: absolute;
-    top: 40pc;
+    position: relative;
+    top: 5pc;
     left: 0;
     width: 100%;
     height: auto;
