@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    height: 100vh;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    height: 50vh;
+    width: 60%;
+    box-shadow: 2px 3px 3px 2px rgba(128, 128, 128, 0.523);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.container input {
+    position: relative;
+    top: 10%;
+    border: 1px solid grey;
+    justify-content: center;
+    margin: auto;
+    width: 80%;
+}
+
+.container h1 {
+    font-family: 'Black Ops One', cursive;
+    font-family: 'Kanit', sans-serif;
+}
