@@ -62,7 +62,6 @@ body {
 
 .image-container {
     position: relative;
-    top: 10%;
     max-width: 100%;
     /* Maximum width */
     max-height: 100%;
