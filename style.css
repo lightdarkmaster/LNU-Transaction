@@ -68,6 +68,7 @@ body {
     /* Maximum height */
     overflow: hidden;
     /* Hide overflow */
+    padding: 5px;
 }
 
 .image-container img {
