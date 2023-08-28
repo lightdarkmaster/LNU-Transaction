@@ -73,9 +73,7 @@ body {
 
 .image-container img {
     width: 100%;
-    /* Take up full width of container */
     height: auto;
-    /* Automatically adjust height while maintaining aspect ratio */
 }
 
 footer {
@@ -86,4 +84,26 @@ footer {
     height: auto;
     margin: auto;
     text-align: center;
+}
+
+@media (min-width: 900px) and (max-width: 1024px) {
+    body {
+        font-size: 16px;
+    }
+    .index-intro {
+        position: relative;
+        top: 10%;
+        height: 100vh;
+        width: 100%;
+    }
+    .image-container {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        padding: 5px;
+    }
+    .image-container img {
+        width: 100px;
+    }
 }
