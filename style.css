@@ -90,7 +90,8 @@ footer {
 /*About us Page--- */
 
 .about-section {
-    width: 70%;
+    position: relative;
+    width: 100%;
     background: #fff;
     padding: 40px 0;
     margin-left: auto;
