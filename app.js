@@ -10,3 +10,7 @@ function togglePasswordVisibility() {
         toggleBtn.textContent = "Show";
     }
 }
+
+function showAlert() {
+    alert("Message Sent!");
+}

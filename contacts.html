@@ -10,6 +10,7 @@
     <script src="js/bootstrap.min.js"></script>
 
     <link rel="stylesheet" href="style.css">
+    <script src="app.js"></script>
 
     <link href="img/logo.jpg" rel="icon">
     <link href="img/logo.jpg" rel="apple-touch-icon">
@@ -74,15 +75,20 @@
                 </div>
                 <div class="row mb-3">
                     <div class="col-sm-10">
+                        <input type="text" class="form-control" id="inputTExt" placeholder="Student No:">
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <div class="col-sm-10">
                         <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
                     </div>
                 </div>
                 <div class="row mb-3">
                     <div class="col-sm-10">
-                        <input type="text" class="form-control" id="inputMessage" placeholder="Enter a Message">
+                        <input type="text" class="form-control" id="inputMessage" placeholder="Message...">
                     </div>
                 </div>
-                <button class="btn btn-outline-success" type="submit">
+                <button class="btn btn-outline-success" type="submit" onclick="showAlert()">
                     Send <i class="fas fa-paper-plane"></i>
                 </button>
 
