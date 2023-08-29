@@ -98,8 +98,8 @@ footer {
     margin-top: 170px;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
     border-radius: 30px;
-    border-left: 50px solid #3CEDA7;
-    border-right: 50px solid #3CEDA7;
+    border-left: 50px solid #3c89ed;
+    border-right: 50px solid #3c89ed;
 }
 
 .inner-width {
@@ -116,7 +116,7 @@ footer {
 .border {
     width: 100px;
     height: 3px;
-    background: #3CEDA7;
+    background: #3c89ed;
     margin: 40px auto;
 }
 
@@ -144,7 +144,7 @@ footer {
     display: inline-block;
     color: #7E7C7A;
     text-decoration: none;
-    border: 2px solid #3CEDA7;
+    border: 2px solid #3c89ed;
     border-radius: 24px;
     padding: 8px 40px;
     transition: 0.4s linear;
@@ -152,7 +152,7 @@ footer {
 
 .about a:hover {
     color: #fff;
-    background: #3CEDA7;
+    background: #3c89ed;
 }
 
 .skills {
@@ -176,7 +176,7 @@ footer {
 
 .progress-bar {
     height: 12px;
-    background: #3CEDA7;
+    background: #3c89ed;
     border-radius: 12px;
 }
 
