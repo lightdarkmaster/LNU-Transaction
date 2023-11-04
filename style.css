@@ -209,7 +209,6 @@ img {
 }
 
 .article-container {
-    display: flex;
     border: 1 px solid grey;
 }
 
